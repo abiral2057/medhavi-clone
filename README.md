@@ -1,7 +1,10 @@
 # React + Vite
 Deployed at Netfliy : https://medhavhi.netlify.app/
+![Homepage](https://github.com/abiral2057/medhavi/assets/98310348/5f583ca9-5504-4c3d-b53d-f0f6dda046ff)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+This ![Uploading Homepage.png…]()
+template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
